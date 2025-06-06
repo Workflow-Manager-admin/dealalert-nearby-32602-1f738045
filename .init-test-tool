@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/dealalert-nearby-32602-1f738045/dealalert_nearby"
+}
